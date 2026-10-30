@@ -1,0 +1,8 @@
+{
+  "name": "DESTIN Café & Restaurant",
+  "description": "Premium café and restaurant in Kendrapara, Odisha. Savour your story with handcrafted coffee, Chinese & North Indian delicacies, and fresh coastal seafood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
